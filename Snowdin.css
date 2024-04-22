@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+.div1 {
+    display: flex;
+}
+.div1 img {
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+.div2 {
+    text-align: center;
+}
+.div2 button {
+    border: solid 2px white;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+}
+.p {
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+.div {
+    text-align: center;
+}
+.div img {
+    width: 45px;
+    height: 40px;
+}
+.div button {
+    background-color: black;
+}

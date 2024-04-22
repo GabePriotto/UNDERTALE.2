@@ -1,0 +1,94 @@
+header {
+    text-align: center;
+    color: white;
+    background-color: black;
+    border-bottom: 15px solid blueviolet;
+    top: 0;
+    padding-top: 20px;
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+.não {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+body {
+    background-color: black;
+}
+.cutevideo {
+    margin-top: 50px;
+    border: solid white 5px;
+    border-radius: 5px;
+    margin-left: 30px;
+    }
+.p {
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+}
+.p2 {
+    text-align: end;
+    color: white;
+    margin-right: 250px;
+    margin-top: 0;
+}
+.sim {
+    color: white;
+    margin-left: 60px;
+    margin-top: 130px;
+}
+.div1 {
+    display: flex;
+}
+.badvideo {
+    margin-top: 50px;
+    border: solid white 5px;
+    border-radius: 5px;
+    margin-left: 30px;
+    width: 640px;
+    height: 350px;
+}
+.p3 {
+    color: white;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.p4 {
+    color: white;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.div2 {
+    display: flex;
+}
+.div2 img {
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+}
+button {
+    height: 100px;
+    width: 200px;
+    font-size: 25px;
+    color: white;
+    border: solid white 5px;
+    border-radius: 10px;
+    background-color: rgb(29, 29, 29);
+}
+.div3 {
+    text-align: center;
+}
+.div3 button {
+    display: inline-block;
+    margin-top: 20px;
+}
+.p5 {
+    color: white;
+    text-align: center;
+}
+.p6 {
+    color: white;
+    text-align: center;
+    margin-top: 4px;
+}

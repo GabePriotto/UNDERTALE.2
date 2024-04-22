@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+.div {
+    text-align: center;
+}
+.div img {
+    height: 200px;
+    width: 180px;
+}
+.p {
+    color: red;
+    text-align: center;
+}
+.h {
+    color: aqua;
+    text-align: center;
+    margin-top: 50px;
+}

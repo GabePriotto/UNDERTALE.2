@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+img {
+    height: 540px;
+    width: 1260px;
+}
+.div {
+    text-align: center;
+}
+p {
+    color: white;
+    text-align: center;
+}
